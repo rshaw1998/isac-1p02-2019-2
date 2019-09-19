@@ -1,9 +1,13 @@
 <html>
-<header>
+
+<head>
+
 <title> Page 1 Lec2 </title>
-</header>
+</head>
+
 <body>
 <p> Page 1 of Lab activity 2, will link page 1 to page 2.</p>
 <p><img src="https://s3.amazonaws.com/golfcanada/app/uploads/golfcanada/production/2019/05/10112245/TPC-for-site.jpg" =alt"TPC Toronto"></P>
 </body>
+
 </html>
