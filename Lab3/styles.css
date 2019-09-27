@@ -1,0 +1,23 @@
+#first{
+  color: green;
+  font-weight: bold;
+}
+
+#second{
+color: orange;
+}
+
+#second2{
+color: red;
+vertical-align: super;
+}
+
+#third{
+  color: purple;
+}
+
+#third2{
+  color: yellow;
+text-transform: uppercase;
+font-style: italic;
+}
