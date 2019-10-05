@@ -1,0 +1,29 @@
+body{
+  background-color: blue;
+}
+
+div{
+  margin: 80px 5% 80px 5%;
+  border: black 4px solid;
+  padding: 20px 10% 20px 10%;
+}
+
+#one{
+  Border: black 2px dashed;
+  Margin-top: 5px;
+  margin-left: -10%;
+}
+
+#one2{
+  color:red; 
+}
+
+#two{
+  border: orange 1.5px dashed;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: -15%;
+  margin-bottom: -7%;
+}

@@ -1,0 +1,38 @@
+div{
+  Margin: 10px 10px ;
+  border: purple 1px dotted;
+  padding: 80px 40% 60px 40%;
+
+}
+
+#one{
+position: absolute;
+}
+
+#first{
+  color: green;
+  text-align: center;
+  font-size: 8px;
+}
+
+#second{
+color: orange;
+font-size: 25px;
+}
+
+#second2{
+color: red;
+vertical-align: super;
+}
+
+#third{
+  color: purple;
+  text-align: right;
+  font-size: 5px;
+}
+
+#third2{
+  color: yellow;
+text-transform: uppercase;
+font-style: italic;
+}

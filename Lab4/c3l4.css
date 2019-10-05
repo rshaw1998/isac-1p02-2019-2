@@ -1,0 +1,22 @@
+body{
+  background-color: green;
+}
+
+div{
+  border: black 4px dotted;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  Margin-top: -7px;
+}
+
+#one{
+  color:red;
+}
+
+#two{
+  color: darkgreen;
+}
+
+#three{
+  color: purple;
+}
