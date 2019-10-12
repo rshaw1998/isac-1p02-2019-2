@@ -8,6 +8,8 @@ body{
   height: 600px;
   background-color: green;
   margin: 0 auto;
+  position: relative;
+  top: -10px;
 }
 
 #content1{
