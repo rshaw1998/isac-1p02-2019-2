@@ -1,0 +1,50 @@
+body{
+  background-color: green;
+  color: black;
+}
+
+#wrapper{
+  position:relative;
+  top:-22px;
+  width: 1000px;
+  background-color: red;
+  margin:0 auto;
+}
+
+#header{
+  text-align: center;
+  height: 80px;
+}
+
+#body1{
+  float: left;
+  height: 70px;
+  width: 400px;
+  background-color: pink;
+  font-weight: bold;
+}
+
+#body2{
+  float:right;
+  height: 70px;
+  width:600px;
+  background-color: orange;
+  font-weight: bold;
+}
+
+#content{
+  width: 1000px;
+  height: 450px;
+  background-color: blue;
+  font-weight: bold;
+  clear:both;
+}
+
+#footer{
+  float:left;
+  width:1000px;
+  height: 80px;
+  background-color: yellow;
+  font-weight: bold;
+  clear:both;
+}
