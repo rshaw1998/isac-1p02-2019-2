@@ -12,7 +12,7 @@ img{
   position: absolute;
   top: -16px;
   width: 1250px;
-  height: 1500px;
+  height: 3000px;
   margin-left: 10px;
 }
 
@@ -46,7 +46,9 @@ img{
   left: 700px;
 }
 
-#pic5{
+.pic5{
+  position: relative;
+  left: 100px;
   height: 300px;
   width: 1000px;
 }
@@ -81,6 +83,7 @@ h5{
   Color: black;
   font-family: serif;
   text-align: center;
+  font-size: 20px;
 }
 
 #box{
@@ -96,14 +99,14 @@ h5{
   height: 700px;
 }
 
-#box2{
+.box2{
   float: left;
  border: black 3px solid;
  width: 615px;
  height: 400px;
 }
 
-#box3{
+.box3{
   float: right;
   border: black 3px solid;
   width: 615px;
