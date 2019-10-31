@@ -1,0 +1,12 @@
+#wrapper {
+width: 1500px;
+height: 1500px;
+margin: auto 0;
+}
+
+#header{
+width: 1400px;
+height: 1400px;
+margin: auto o;
+background-color: red; 
+}
