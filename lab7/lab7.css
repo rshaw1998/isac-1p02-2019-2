@@ -1,12 +1,69 @@
 #wrapper {
 width: 1500px;
-height: 1500px;
+height: 1200px;
 margin: auto 0;
 }
 
 #header{
 width: 1400px;
-height: 1400px;
+height: 300px;
 margin: auto o;
-background-color: red; 
+background-color: red;
+}
+
+#about{
+  top: 50px;
+  float: right;
+  padding-right: 50px;
+  font-size: 40px;
+  clear: both;
+}
+
+#leftbox{
+  width: 350px;
+  height: 900px;
+  background-color: teal;
+  float: left;
+}
+
+#centerbox{
+  width: 700px;
+  height: 900px;
+  float: left;
+  background-color: yellow;
+}
+
+#rightbox{
+  width: 350px;
+  height: 771px;
+  background-color: blue;
+  float: left;
+}
+
+#header1{
+text-align: center;
+padding-top: 50px;
+}
+
+#header2{
+  text-align: center;
+}
+
+#header3{
+  text-align: center;
+}
+
+.menuheader{
+  text-align: center;
+  font-size: 30px;
+}
+
+#reservations{
+  margin: auto 0;
+  text-align: center;
+}
+
+#social{
+  margin: auto 0;
+  text-align: center;
 }
