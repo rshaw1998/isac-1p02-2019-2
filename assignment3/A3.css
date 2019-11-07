@@ -1,0 +1,135 @@
+#wrapper{
+  background-color: #FF9933;
+  height: 2000px;
+  width: 1650px;
+  margin: 0 auto;
+}
+
+#header1{
+width: 1650px;
+height: 150px;
+background-color: #00008B;
+}
+
+#logo{
+  height: 145px;
+}
+
+#nav1{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 400px;
+  color:white;
+}
+
+#nav2{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 500px;
+  color:white;
+}
+
+#nav3{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 655px;
+  color:white;
+}
+
+#nav4{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 720px;
+  color:white;
+}
+
+#nav5{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 855px;
+  color:white;
+}
+
+#nav6{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 1025px;
+  color:white;
+}
+
+#nav7{
+  font-size: 20px;
+  position: absolute;
+  top: 65px;
+  left: 1175px;
+  color:white;
+}
+
+#news{
+  margin-top: 10px;
+  margin-left:10px;
+  height: 1700px;
+  width: 300px;
+  background-color: #E6E6E6;
+  float:left;
+}
+
+#imgday{
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 850px;
+  width: 1050px;
+  background-color: #E6E6E6;
+  float: left;
+}
+
+h2{
+  text-align: center;
+
+}
+
+#pic1{
+  height: 850px;
+  width: 400px;
+  position: relative;
+  top: -69px;
+}
+
+#daytext{
+  font-size: 20px;
+  position:relative;
+  top: -550px;
+  left:410px;
+}
+
+#stars{
+height: 840px;
+width: 520px;
+background-color: #E6E6E6;
+float:left;
+margin-top: 10px;
+margin-left: 10px;
+}
+
+#onday{
+  height: 840px;
+  width: 520px;
+  background-color: #E6E6E6;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#footer{
+  height: 140px;
+  width: 1650px;
+  background-color: #00008B;
+  position: relative;
+  top:1715px;
+}
