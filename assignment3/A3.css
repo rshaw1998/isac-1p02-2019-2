@@ -1,5 +1,5 @@
 #wrapper{
-  background-color: #FF9933;
+  background-color: #FFC34D;
   height: 2000px;
   width: 1650px;
   margin: 0 auto;
@@ -75,7 +75,7 @@ background-color: #00008B;
   margin-top: 10px;
   margin-left:10px;
   height: 1700px;
-  width: 300px;
+  width: 280px;
   background-color: #E6E6E6;
   float:left;
 }
@@ -95,17 +95,66 @@ h2{
 }
 
 #pic1{
-  height: 850px;
-  width: 400px;
-  position: relative;
-  top: -69px;
+  height: 400px;
+  width: 1050px;
 }
 
-#daytext{
+.daytext{
   font-size: 20px;
-  position:relative;
-  top: -550px;
-  left:410px;
+}
+
+#ads1{
+  height: 190px;
+  width: 280px;
+  float: right;
+  background-color: #0000CC;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#ads2{
+  height: 240px;
+  width: 280px;
+  float:right;
+  background-color: #0000CC;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#ads3{
+  height: 240px;
+  width: 280px;
+  float:right;
+  background-color: #0000CC;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#ads4{
+  height: 150px;
+  width: 280px;
+  float:right;
+  background-color: #0000CC;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#ads5{
+  height: 415px;
+  width: 280px;
+  float: right;
+  background-color: #0000CC;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#ads6{
+height: 415px;
+width: 280px;
+float: right;
+background-color: #0000CC;
+margin-top: 10px;
+margin-right: 10px;
 }
 
 #stars{
@@ -115,6 +164,11 @@ background-color: #E6E6E6;
 float:left;
 margin-top: 10px;
 margin-left: 10px;
+}
+
+.pic2{
+  width: 520px;
+  height: 300px;
 }
 
 #onday{
@@ -127,9 +181,25 @@ margin-left: 10px;
 }
 
 #footer{
-  height: 140px;
+  height: 150px;
   width: 1650px;
   background-color: #00008B;
   position: relative;
   top:1715px;
+}
+
+#conttext{
+  text-align: left;
+  position: relative;
+  bottom: 1650px;
+  color: white;
+  left: 10px;
+}
+
+#soctext{
+  text-align: right;
+  position:relative;
+  bottom: 1680px;
+  right: 10px;
+  color:white;
 }
