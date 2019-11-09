@@ -85,7 +85,7 @@ background-color: #00008B;
   margin-left:10px;
   height: 1700px;
   width: 280px;
-  background-color: #E6E6E6;
+  background-color: white;
   float:left;
 }
 
@@ -96,7 +96,7 @@ background-color: #00008B;
   margin-left: 10px;
   height: 850px;
   width: 1050px;
-  background-color: #E6E6E6;
+  background-color: White;
   float: left;
 }
 
@@ -172,7 +172,7 @@ margin-right: 10px;
 #stars{
 height: 840px;
 width: 520px;
-background-color: #E6E6E6;
+background-color: white;
 float:left;
 margin-top: 10px;
 margin-left: 10px;
@@ -186,7 +186,7 @@ margin-left: 10px;
 #onday{
   height: 840px;
   width: 520px;
-  background-color: #E6E6E6;
+  background-color: white;
   float: left;
   margin-top: 10px;
   margin-left: 10px;
